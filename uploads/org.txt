@@ -1,0 +1,15 @@
+Organisation 
+
+Datenbank bis Benutzeroberfläche
+
+full Stack developer
+
+
+Frontend
+CSS-Gestaltung, unterschiedliche Endgeräte, schnelles Ladeverhalten, hohe Interaktivität, Sicherheit
+
+
+Backend
+
+
+UX-Design, Datenmodellierung, Skalierung, Sicherheit, Produktmanagement

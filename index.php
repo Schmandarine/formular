@@ -50,15 +50,15 @@
           <tr>
             <td>
               <input type="text" name="kontakt_firma" placeholder="Firma:" <?php input_val('kontakt_firma'); ?>><br>
-              <input type="text" name="kontakt_name" placeholder="Name:" <?php input_val('kontakt_name'); ?>><br>
+              <input type="text" id="needed" name="kontakt_name" placeholder="Name:" <?php input_val('kontakt_name'); ?>><br>
               <input type="text" name="kontakt_strasse" placeholder="Straße:" <?php input_val('kontakt_strasse'); ?>><br>
               <input type="text" name="kontakt_plz" placeholder="Plz/Ort:" <?php input_val('kontakt_plz'); ?>><br>
             </td>
             <td>
               <input type="text" name="kontakt_datum" value="<?php echo date ("d.m.Y, h:i:s"); ?>"><br>
-              <input type="text" name="kontakt_telefon" placeholder="Telefon:" <?php input_val('kontakt_telefon'); ?>><br>
+              <input type="text" id="needed" name="kontakt_telefon" placeholder="Telefon:" <?php input_val('kontakt_telefon'); ?>><br>
               <input type="text" name="kontakt_mobil" placeholder="Mobil:" <?php input_val('kontakt_mobil'); ?>><br>
-              <input type="text" name="kontakt_email" placeholder="E-Mail:" <?php input_val('kontakt_email'); ?>><br>
+              <input type="text" id="needed" name="kontakt_email" placeholder="E-Mail:" <?php input_val('kontakt_email'); ?>><br>
             </td>
           </tr>
           
